@@ -8,6 +8,8 @@ public class AppGit {
 
 		System.out.println("Creacion de un repositorio Git desde Git Bash");
 		
+		System.out.println("Commit intermedio");
+		
 	}
 
 }
