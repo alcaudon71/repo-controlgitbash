@@ -12,6 +12,8 @@ public class AppGit {
 		
 		System.out.println("Commit realizado antes de conectar con GitHub");
 		
+		System.out.println("Ya tenemos repositorio en GitHub");  
+		
 	}
 
 }
